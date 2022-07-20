@@ -1,4 +1,4 @@
-module github/sushmitaw/hello
+module github.com/sushmitaw/greeting
 
 go 1.18
 
